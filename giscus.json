@@ -1,0 +1,8 @@
+{
+  "origins": ["https://soap-bubble-boat.pages.dev"],
+  "originsRegex": [
+    "^https://[a-f0-9]+\\.soap-bubble-boat\\.pages\\.dev$",
+    "^http://(localhost|127\\.0\\.0\\.1):[0-9]+$"
+  ],
+  "defaultCommentOrder": "oldest"
+}
